@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Portafolio Web - Yeimy Juliana Guarín
 
-## Getting Started
+Este es mi portafolio personal, desarrollado con **Next.js**, donde presento mi experiencia, habilidades y proyectos en desarrollo de software. Está optimizado para rendimiento y accesibilidad, y se encuentra desplegado en **Vercel**.
 
-First, run the development server:
+## 🌟 Características principales
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- 🔥 **Desarrollado con Next.js**: Aplicación rápida y optimizada.
+- 🎨 **Diseño responsivo**: Adaptado para móviles y escritorio.
+- ⚡ **Optimización de rendimiento**: Uso de imágenes optimizadas y carga eficiente.
+- 📂 **Secciones clave**: 
+  - Sobre mí
+  - Habilidades
+  - Proyectos
+  - Contacto
+
+## 🛠️ Tecnologías utilizadas
+
+- **Next.js** - Framework de React para aplicaciones web modernas.
+- **React.js** - Biblioteca para interfaces de usuario.
+- **Tailwind CSS** - Framework CSS para estilos rápidos y personalizables.
+- **TypeScript** - Tipado estático para un código más robusto.
+- **Vercel** - Plataforma de despliegue.
+
+## 📂 Estructura del Proyecto
+
+```
+mi-portafolio/
+│── app/                # Páginas y componentes principales
+│── public/             # Imágenes y archivos estáticos
+│── styles/             # Estilos globales y personalizados
+│── next.config.js      # Configuración de Next.js
+│── package.json        # Dependencias y scripts
+│── README.md           # Documentación del proyecto
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Instalación y Ejecución Local
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Si deseas clonar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Clona el repositorio**
+   ```bash
+   git clone https://github.com/YeiGuarin/mi-portafolio.git
+   ```
 
-## Learn More
+2. **Accede al directorio del proyecto**
+   ```bash
+   cd mi-portafolio
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+3. **Instala las dependencias**
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. **Inicia el servidor en modo desarrollo**
+   ```bash
+   npm run dev
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5. **Abre tu navegador en**
+   ```
+   http://localhost:3000
+   ```
 
-## Deploy on Vercel
+## 🌍 Despliegue en Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+El portafolio está en línea y accesible a través de **Vercel**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 **Ver Portafolio en Vivo**: [https://tu-portafolio.vercel.app/](https://tu-portafolio.vercel.app/)
+
+## 📩 Contacto
+
+Si deseas contactarme, aquí tienes mis redes y correo:
+
+📧 **Email**: [yeimyj.guarin16@gmail.com](mailto:yeimyj.guarin16@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/yeimy-juliana-guarin](https://www.linkedin.com/in/yeimy-juliana-guarin)  
+💻 **GitHub**: [github.com/YeiGuarin](https://github.com/YeiGuarin)  
+
+---
+
+✨ *Gracias por visitar mi portafolio. ¡Espero que te guste!* 🚀
