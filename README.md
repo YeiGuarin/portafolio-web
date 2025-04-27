@@ -66,7 +66,7 @@ Si deseas clonar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
 El portafolio está en línea y accesible a través de **Vercel**.
 
-🔗 **Ver Portafolio en Vivo**: [https://tu-portafolio.vercel.app/](https://tu-portafolio.vercel.app/)
+🔗 **Ver Portafolio en Vivo**: [https://tu-portafolio.vercel.app/](https://portafolio-web-sooty-nu.vercel.app/)
 
 ## 📩 Contacto
 
